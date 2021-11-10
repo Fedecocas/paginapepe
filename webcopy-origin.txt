@@ -1,0 +1,28 @@
+Uri: https://copia-discord.web.app/
+File Name: C:\Downloaded Web Sites\https://sites.google.com/view/el-pepe-web/inicio\index.htm
+Content Type: text/html
+
+Uri: https://lh3.googleusercontent.com/a-/AOh14GiBRSOWZUzQckFP8L4P5YMhiVoBXYpusJp2yUWb=s96-c
+File Name: C:\Downloaded Web Sites\copia-discord.web.app\a-\AOh14GiBRSOWZUzQckFP8L4P5YMhiVoBXYpusJp2yUWb=s96-c.png
+Content Type: image/png
+
+Uri: https://copia-discord.web.app/logo192.png
+File Name: C:\Downloaded Web Sites\copia-discord.web.app\logo192.png
+Content Type: image/png
+
+Uri: https://copia-discord.web.app/manifest.json
+File Name: C:\Downloaded Web Sites\copia-discord.web.app\manifest.json
+Content Type: application/json
+
+Uri: https://copia-discord.web.app/static/css/main.2c64fd34.chunk.css
+File Name: C:\Downloaded Web Sites\copia-discord.web.app\static\css\main.2c64fd34.chunk.css
+Content Type: text/css
+
+Uri: https://copia-discord.web.app/static/js/2.aeb0e2e5.chunk.js
+File Name: C:\Downloaded Web Sites\copia-discord.web.app\static\js\2.aeb0e2e5.chunk.js
+Content Type: text/javascript
+
+Uri: https://copia-discord.web.app/static/js/main.54d7ab32.chunk.js
+File Name: C:\Downloaded Web Sites\copia-discord.web.app\static\js\main.54d7ab32.chunk.js
+Content Type: text/javascript
+
